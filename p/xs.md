@@ -1,7 +1,6 @@
 <center>
 <h2>What version are you trying to jailbreak?</h2>
-<a href="https://canijb.ametrine.dev/ver/yes-chimera-unc0ver-rootlessjb4" class="myButton">  iOS 12 - 12.1.4  </a><br><br>
-<a href="https://canijb.ametrine.dev/ver/yes-chimera-unc0ver-rootlessjb4" class="myButton">  iOS 12.2  </a><br><br>
+<a href="https://canijb.ametrine.dev/ver/yes-chimera-unc0ver-rootlessjb4" class="myButton">  iOS 12 - 12.2  </a><br><br>
 <a href="https://canijb.ametrine.dev/ver/yes-rootlessjb4" class="myButton">  iOS 12.3 - 12.3.1  </a><br><br>
 <a href="https://canijb.ametrine.dev/ver/yes-chimera-rootlessjb4" class="myButton">  iOS 12.4  </a><br><br>
 <a href="https://canijb.ametrine.dev/ver/yes-rootlessjb4" class="myButton">  iOS 12.4.1  </a><br><br>
